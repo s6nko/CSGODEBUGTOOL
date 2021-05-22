@@ -1,0 +1,2 @@
+G:\@\_\REVERSEENGINEER\stuff\CSGO RCS Tutorial\RCStutorial\Debug\CSGODEBUGTOOL.dll
+G:\@\_\REVERSEENGINEER\stuff\CSGO RCS Tutorial\RCStutorial\Debug\CSGODEBUGTOOL.pdb

@@ -1,0 +1,5 @@
+﻿G:\Program Files\Microsoft Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (RCStutorial.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  dllmain.cpp
+G:\@\_\REVERSEENGINEER\stuff\CSGO RCS Tutorial\RCStutorial\dllmain.cpp(16,16): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+G:\@\_\REVERSEENGINEER\stuff\CSGO RCS Tutorial\RCStutorial\dllmain.cpp(47,12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  RCStutorial.vcxproj -> G:\@\_\REVERSEENGINEER\stuff\CSGO RCS Tutorial\RCStutorial\Debug\CSGODEBUGTOOL.dll
